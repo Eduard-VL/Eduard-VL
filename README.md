@@ -1,16 +1,16 @@
 About me
 My name is: Eduard
 I'm from: Romania
-I am 15y/o
+I am 19y/o
 
 PC Specs
-🖥Monitor: MSI Optix MAG271C 144hz Curved
+🖥Monitor: Alienware 360hz
 💽Processor: Intel Core i5-11600KF
 ⌨️Keyboard: Razer BlackWidow V3 TenkeyLess
-🖱Mouse: Razer Mamba Elite
-🎙Microphone: Razer Seiren Mini Black
-🎧Headphones: Genesis neon 350
+🖱Mouse: Logitech PRO Superlight 2 Strike
+🎙Microphone: HyperX QuadCast S
+🎧Headphones: HyperX CloudAlpha 2
 MotherBoard: Asus Prime Z590-P
 GPU: Asus Dual Nvidia GEFORCE RTX 3060 V2
-Storage: SSD 1TB
+Storage: SSD 2TB
 Ram: 16Gb
