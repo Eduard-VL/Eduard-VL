@@ -7,7 +7,7 @@ PC Specs
 🖥Monitor: Alienware 360hz
 💽Processor: Intel Core i5-11600KF
 ⌨️Keyboard: Razer BlackWidow V3 TenkeyLess
-🖱Mouse: Logitech PRO Superlight 2 Strike
+🖱Mouse: Logitech PRO X2 Superstrike
 🎙Microphone: HyperX QuadCast S
 🎧Headphones: HyperX CloudAlpha 2
 MotherBoard: Asus Prime Z590-P
